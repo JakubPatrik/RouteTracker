@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "485964308816",
+    "firebase_url": "https://mapofcorona.firebaseio.com",
+    "project_id": "mapofcorona",
+    "storage_bucket": "mapofcorona.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485964308816:android:960a720c89ec6806944c55",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485964308816-48pi2km0bpgqftgcunal58prn4e56uv7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_GcEygy8I5sWCW0v5O4IkZGCJlD-nglo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485964308816-48pi2km0bpgqftgcunal58prn4e56uv7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
